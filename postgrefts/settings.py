@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 
-DICTIONARY = 'fr'
+DICTIONARY = 'french'
 TITLE_MAX_LENGTH = 100
 HIGHLIGHT_DEFAULT_OPTIONS = {
     'StartSel': '<b>', 'StopSel': '</b>',
